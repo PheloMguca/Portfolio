@@ -1,5 +1,4 @@
 # Phelo Mguca
-
 **📍** 143 Sir Lowry Rd, Foreshore, Cape Town, 8001
 **📞** 067 186 8926
 **📧** [230707726@mycput.ac.za](mailto:230707726@mycput.ac.za)
@@ -8,13 +7,12 @@
 
 ---
 
-## Profile
-
+## 👤 Profile
 As a third-year Application Development student, I'm passionate about understanding how software works from both the user and developer perspective. I've built projects using Java, HTML, CSS, and SQL, and I enjoy turning ideas into functional applications. I'm seeking an internship opportunity where I can gain real industry experience and continue developing my technical and teamwork skills.
 
 ---
 
-🎓 **Education**
+## 🎓 Education
 
 - 🏛️ **Cape Peninsula University of Technology**
   Diploma in Information and Communication Technology *(2024 – Present)*
@@ -37,7 +35,7 @@ As a third-year Application Development student, I'm passionate about understand
 
 ---
 
-## References
+## 📬 References
 
 **Kruben Naidoo**
 Cape Peninsula University of Technology

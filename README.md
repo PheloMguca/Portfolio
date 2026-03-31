@@ -50,6 +50,6 @@ Absa Group
 
 ## Mock Interview Video
 <video width="100%" controls>
-  <source src="Mock%20Interview" type="video/mp4">
+  <source src="Mock%20Interview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

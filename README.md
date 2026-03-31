@@ -45,6 +45,9 @@ Cape Peninsula University of Technology
 Absa Group
 [qhawe.ngcolongwana@gmail.com](mailto:qhawe.ngcolongwana@gmail.com)
 
-<video width="640" height="360" controls>
-  <source src="videos/Mock Interview" type="video/mp4">
+
+## Mock Interview Video
+<video width="100%" controls>
+  <source src="Mock_Interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>

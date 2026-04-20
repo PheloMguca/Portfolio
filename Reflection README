@@ -1,1 +1,21 @@
+# Project Reflection: Digital CV & Portfolio Integration
 
+## 📝 Coding in Markdown
+Transitioning from traditional document editors to **Markdown** felt like a natural evolution for me as an Application Development student. Instead of getting distracted by complex formatting menus, Markdown allowed me to focus on the **structure and hierarchy** of my professional story.
+
+* **The Logic:** I enjoyed the parallel between coding in Java and writing in Markdown; both require a specific syntax to achieve a desired output. 
+* **The Clarity:** Using headers (`#`), bold text (`**`), and tables made me realize how important readability is in documentation. It’s a skill that I know will carry over into my professional career when I’m writing technical specs or README files for my software projects.
+
+---
+
+## 🎥 The Mock Interview Experience
+Recording the mock interview was a significant step outside my comfort zone. While I am comfortable behind a keyboard, explaining my passion for backend architecture and software design on camera required a different kind of "debugging."
+
+* **Self-Assessment:** Reviewing the footage allowed me to see myself from a recruiter’s perspective. It helped me identify where I was articulate and where I needed to project more confidence when discussing my technical stack.
+---
+
+## 🚀 Deployment via GitHub Pages
+Taking my CV from a local file to a live URL using **GitHub Pages** was the most rewarding part of this assignment. It transformed a simple school task into a functional, public-facing portfolio.
+
+* **Version Control for Career:** Utilizing Git for my CV means my professional growth is now "version-controlled." Every new skill I learn or project I complete at CPUT can be committed and pushed to the live site instantly.
+* **The Deployment Mindset:** Ensuring the video source tags were correct and the responsive design worked in a live browser environment gave me a practical look at the deployment pipeline. It’s a small-scale version of the software delivery lifecycle I’ll be participating in once I enter the industry.

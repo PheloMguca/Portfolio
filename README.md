@@ -2,8 +2,8 @@
 **📍** 143 Sir Lowry Rd, Foreshore, Cape Town, 8001
 **📞** 067 186 8926
 **📧** [230707726@mycput.ac.za](mailto:230707726@mycput.ac.za)
-**🐙 GitHub:** github.com/PheloMguca
-**💼 LinkedIn:** linkedin.com/in/phelo-mguca-561297335
+**🐙 GitHub:** [github.com/PheloMguca](https://github.com/PheloMguca)
+**💼 LinkedIn:** [linkedin.com/in/phelo-mguca-561297335](https://www.linkedin.com/in/phelo-mguca-561297335/)
 
 ---
 
@@ -53,6 +53,13 @@ Absa Group
   Your browser does not support the video tag.
 </video>
 
+<br>
+<br>
+
+---
+
+<br>
+
 ## 🚀 Semester 2 – Entrepreneurial WIL Project
 
 ### GugsLocalConnect
@@ -61,10 +68,10 @@ GugsLocalConnect is a community-based digital platform designed to connect resid
 
 ### 🔗 Project Evidence
 
-- 🌍 **Live Application:** [GugsLocalConnect](#)
-- 💻 **Frontend Repository:** [GugLocalConnect1](#)
-- 🗄️ **Backend Repository:** [GugsLocalConnect-Backend](#)
-- 📋 **Project Management:** [Trello Task Board](#)
+- 🌍 **Live Application:** [https://gug-local-connect1-ashen.vercel.app/](https://gug-local-connect1-ashen.vercel.app/)
+- 💻 **Frontend Repository:** [https://github.com/BongikaziMnyamana/GugLocalConnect1](https://github.com/BongikaziMnyamana/GugLocalConnect1)
+- 🗄️ **Backend Repository:** [https://github.com/sethujunior/GugsLocalConnect-Backend](https://github.com/sethujunior/GugsLocalConnect-Backend)
+- 📋 **Project Management:** [Trello Task Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
 ---
 
@@ -88,7 +95,9 @@ The Agile Team Charter defines the purpose of GugsLocalConnect, the team's roles
 
 ### ✅ User Stories and Tasks
 
-**Evidence:** [Screenshot 2026-10-27 170427](#)
+**Evidence:**
+
+![User Stories and Tasks](User%20stories.png)
 
 Our team used Trello to organise user stories, break work into smaller tasks, assign responsibilities, and track progress during development. The tasks were assigned to team members and tracked using a checklist on Trello. This helped the team understand what needed to be completed and monitor progress.
 
@@ -106,7 +115,9 @@ Our team used Trello to organise user stories, break work into smaller tasks, as
 
 ### 📚 Product Backlog
 
-**Evidence:** [Screenshot 2026-10-27 170913](#)
+**Evidence:**
+
+![Product Backlog](product%20backlog.png)
 
 The product backlog was used to organise the features, requirements, and tasks needed to develop GugsLocalConnect. It helped our team keep track of the work required to build a platform that connects residents of Gugulethu with local businesses and service providers. The team used Trello cards to organise the work and monitor its progress. The product backlog helped us identify the tasks required to move the project from planning towards implementation.
 
@@ -124,7 +135,9 @@ The product backlog was used to organise the features, requirements, and tasks n
 
 ### 🏃 Sprint Backlog
 
-**Evidence:** [Screenshot 2026-10-27 171357](#)
+**Evidence:**
+
+![Sprint Backlog](sprint%20backlog.png)
 
 Our team used sprint backlogs to organise project tasks into smaller groups of work that could be completed during specific stages of development. This helped us plan activities, allocate responsibilities, and monitor progress. Trello checklists helped the team break down larger activities into manageable tasks and track their completion.
 
